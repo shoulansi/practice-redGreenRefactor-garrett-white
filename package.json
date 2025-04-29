@@ -1,0 +1,23 @@
+{
+  "name": "practice-redgreenrefactor-garrett-white",
+  "version": "1.0.0",
+  "main": "countingvowels.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shoulansi/practice-redGreenRefactor-garrett-white.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shoulansi/practice-redGreenRefactor-garrett-white/issues"
+  },
+  "homepage": "https://github.com/shoulansi/practice-redGreenRefactor-garrett-white#readme",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
